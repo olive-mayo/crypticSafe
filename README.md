@@ -1,5 +1,5 @@
 # crypticSafe
-After running the system_main.cpp, you'll see a welcome message and a menu with options:
+After running the system_main.exe, you'll see a welcome message and a menu with options:
 1. Encrypt
 2. Decrypt (Use when the file is encrypted using Encrypt)
 3. Secure++ Encrypt
